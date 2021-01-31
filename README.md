@@ -24,7 +24,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Document 📖
 
-The related documentation: [Wiki](https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation/document/Dual_Point_World_Manipulation.pdf)
+The related documentation: [Document](https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation/blob/main/Dual_Point_World_Manipulation.pdf)
 
 ## Authors ✒️
 
