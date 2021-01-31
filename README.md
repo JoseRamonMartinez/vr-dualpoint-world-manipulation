@@ -26,7 +26,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 The related documentation: [Wiki](https://github.com/JoseRamonMartinez/VR_DualPoint_World_Manipulation/document/Dual_Point_World_Manipulation.pdf)
 
-## Autores ✒️
+## Authors ✒️
 
 
 * **José Ramón Martínez Riveiro** - *Developer* - [joseramonmartinez](https://es.linkedin.com/in/joseramonmartinezriveiro)
